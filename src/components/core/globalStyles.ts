@@ -1,4 +1,7 @@
+/* eslint-disable max-len */
 import { createGlobalStyle } from "styled-components/macro";
+
+import { theme } from "./colors";
 
 export const GlobalStyles = createGlobalStyle`
   *, *:before, *:after {
@@ -28,6 +31,8 @@ export const GlobalStyles = createGlobalStyle`
   */
 
   body {
+    color: ${theme.darkgray};
+    font-family: 'IBM Plex Sans', sans-serif;
     margin: 0;
   }
 
@@ -356,9 +361,8 @@ export const GlobalStyles = createGlobalStyle`
   }
 
   body {
-    margin: 0;
-    padding: 16px;
     font-family: sans-serif;
+    margin: 0;
     width: 100%;
   }
 `;
