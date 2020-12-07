@@ -38,7 +38,7 @@ a single related change (eg. adding a React component)
 
 ### Troubleshooting:
 
-_Config file that contains the API KEY has not been included... Give instructions on how to add config file_
+_Config file that contains the API KEY has not been included._
 
 
 <br >
