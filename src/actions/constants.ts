@@ -1,0 +1,4 @@
+export const ADD_QUOTES = "ADD_QUOTES";
+export const START_LOADING_DATA = "START_LOADING_DATA";
+export const END_LOADING_DATA = "END_LOADING_DATA";
+export const FETCH_ERROR = "FETCH_ERROR";
