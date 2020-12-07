@@ -1,0 +1,187 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RateQuoteUI renders app correctly 1`] = `
+<div>
+  <div
+    class="sc-jrAGrp jeFpNf"
+  >
+    <form
+      class="sc-bdfBwQ cWDhuF"
+    >
+      <div>
+        <div
+          class="sc-gsTCUz ghpfRK"
+        >
+          <label
+            for="loanSize"
+          >
+            Loan Size
+          </label>
+          <div
+            class="sc-dlfnbm cATQrh"
+          >
+            <small>
+              $
+            </small>
+            <input
+              name="loanSize"
+              placeholder="Enter loan size"
+              type="text"
+              value="450,000"
+            />
+          </div>
+        </div>
+        <div
+          class="sc-gsTCUz OZGIW"
+        >
+          <label
+            for="creditScore"
+          >
+            Credit Score
+          </label>
+          <div
+            class="sc-dlfnbm cATQrh"
+          >
+            <input
+              max="830"
+              min="0"
+              name="creditScore"
+              pattern="[0-9]{3}"
+              title="Must only contain numbers"
+              type="number"
+              value="680"
+            />
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          class="sc-gsTCUz OZGIW"
+        >
+          <label
+            for="propertyType"
+          >
+            Property Type
+          </label>
+          <select
+            name="propertyType"
+          >
+            <option
+              value="SingleFamily"
+            >
+              Single Family
+            </option>
+            <option
+              value="Condo"
+            >
+              Condo
+            </option>
+            <option
+              value="Townhouse"
+            >
+              Town House
+            </option>
+            <option
+              value="MultiFamily"
+            >
+              MultiFamily
+            </option>
+          </select>
+        </div>
+        <div
+          class="sc-gsTCUz OZGIW"
+        >
+          <label
+            for="occupancy"
+          >
+            Occupancy
+          </label>
+          <select
+            name="occupancy"
+          >
+            <option
+              value="Primary"
+            >
+              Primary Residence
+            </option>
+            <option
+              value="Secondary"
+            >
+              Secondary
+            </option>
+            <option
+              value="Investment"
+            >
+              Investment
+            </option>
+          </select>
+        </div>
+        <div
+          class="sc-hKgILt iIJjpm"
+        >
+          <button
+            data-testid="quote-rates-trigger"
+            type="submit"
+          >
+            Quote Rates
+          </button>
+        </div>
+      </div>
+    </form>
+    <div
+      class="sc-kEjbxe bJgerX"
+    >
+      <div
+        class="sc-iBPRYJ sc-fubCfw cVXiBE iRwpXQ"
+      >
+        <div
+          class="sc-jSgupP sc-gKsewC bZDFWl cuROfH"
+          data-testid="lenderName"
+        >
+          Lender
+        </div>
+        <div
+          class="sc-jSgupP bZDFWl"
+          data-testid="loanType"
+        >
+          Product
+        </div>
+        <div
+          class="sc-jSgupP bZDFWl"
+          data-testid="interestRateFormatted"
+        >
+          Rate
+        </div>
+        <div
+          class="sc-jSgupP bZDFWl"
+          data-testid="closingCosts"
+        >
+          Closing 
+          <br />
+           Costs
+        </div>
+        <div
+          class="sc-jSgupP bZDFWl"
+          data-testid="monthlyPaymentFormatted"
+        >
+          Monthly Payment
+        </div>
+        <div
+          class="sc-jSgupP bZDFWl"
+          data-testid="aprFormatted"
+        >
+          APR
+        </div>
+      </div>
+      <div
+        class="sc-eCssSg bOktpH"
+        style="position: absolute; left: 50%; transform: translateX(-50%);"
+      >
+        <h3>
+          Try a new search
+        </h3>
+      </div>
+    </div>
+  </div>
+</div>
+`;
