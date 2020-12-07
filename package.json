@@ -12,15 +12,22 @@
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.53",
     "@types/react-dom": "^16.9.8",
+    "@types/rosie": "^0.0.38",
     "@types/styled-components": "^5.1.4",
+    "cleave.js": "^1.6.0",
+    "currency.js": "^2.0.3",
     "es6-promise": "^4.2.8",
+    "fetch-mock": "^9.11.0",
+    "final-form": "^4.20.1",
     "isomorphic-fetch": "^3.0.0",
     "next-redux-wrapper": "^6.0.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-final-form": "^6.5.2",
     "react-markdown": "^5.0.2",
     "react-redux": "^7.2.2",
     "react-scripts": "4.0.1",
+    "redux-thunk": "^2.3.0",
     "styled-components": "^5.2.1",
     "typescript": "^4.0.3",
     "web-vitals": "^0.2.4"
@@ -29,8 +36,10 @@
     "start": "react-scripts start",
     "dev": "yarn start NODE_ENV=dev",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "test": "react-scripts test --verbose",
+    "eject": "react-scripts eject",
+    "lint": "eslint . --ext .ts,.tsx",
+    "lint:fix": "npm run lint -- --fix"
   },
   "eslintConfig": {
     "extends": [
@@ -51,6 +60,12 @@
     ]
   },
   "devDependencies": {
-    "babel-plugin-styled-components": "^1.12.0"
+    "@types/cleave.js": "^1.4.4",
+    "@types/react-redux": "^7.1.11",
+    "@types/redux-mock-store": "^1.0.2",
+    "babel-plugin-styled-components": "^1.12.0",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-mock-store": "^1.5.4",
+    "rosie": "^2.0.1"
   }
 }
