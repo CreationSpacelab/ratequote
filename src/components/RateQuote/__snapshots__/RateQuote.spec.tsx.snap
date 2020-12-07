@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RateQuote renders app correctly 1`] = `
+<div>
+  <div
+    class="sc-dlfnbm huaKEx"
+  >
+    <div
+      class="sc-bdfBwQ sc-gsTCUz gIxYza bKuXft"
+      data-testid="lenderName"
+    >
+      <div
+        class="sc-eCssSg ffHURk"
+      >
+        TFB Federal C...
+        <div>
+          TFB Federal Credit Union
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-bdfBwQ gIxYza"
+      data-testid="loanType"
+    >
+      7/1 ARM
+    </div>
+    <div
+      class="sc-bdfBwQ gIxYza"
+      data-testid="interestRateFormatted"
+    >
+      3.375%
+    </div>
+    <div
+      class="sc-bdfBwQ gIxYza"
+      data-testid="closingCosts"
+    >
+      $5,500
+    </div>
+    <div
+      class="sc-bdfBwQ gIxYza"
+      data-testid="monthlyPaymentFormatted"
+    >
+      $1,989
+    </div>
+    <div
+      class="sc-bdfBwQ gIxYza"
+      data-testid="aprFormatted"
+    >
+      3.472%
+    </div>
+  </div>
+</div>
+`;
