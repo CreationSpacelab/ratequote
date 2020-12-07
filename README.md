@@ -2,6 +2,8 @@
 
 > author: Stephanie Brown
 
+<img width="600" src="https://res.cloudinary.com/bnybny/image/upload/v1607373596/ratequote_uf2e72.png" />
+
 To run set up your dev environment:
 
 `yarn`
