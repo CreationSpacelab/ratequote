@@ -1,0 +1,108 @@
+{
+  "rateQuotes": [
+    {
+      "lenderName": "TFB Federal Credit Union",
+      "loanType": "7/1 ARM",
+      "interestRate": 3.375,
+      "closingCosts": 6000,
+      "monthlyPayment": 2210.4810513374828,
+      "apr": 3.4705318735841515
+    },
+    {
+      "lenderName": "TFB Federal Credit Union",
+      "loanType": "10/1 ARM",
+      "interestRate": 3.5,
+      "closingCosts": 6000,
+      "monthlyPayment": 2245.2234390441176,
+      "apr": 3.596224498776792
+    },
+    {
+      "lenderName": "TFB Federal Credit Union",
+      "loanType": "30YR Fixed",
+      "interestRate": 3.75,
+      "closingCosts": 6000,
+      "monthlyPayment": 2315.577957860621,
+      "apr": 3.8476314656281834
+    },
+    {
+      "lenderName": "Bates College Credit Union",
+      "loanType": "7/1 ARM",
+      "interestRate": 3.125,
+      "closingCosts": 2375,
+      "monthlyPayment": 2141.8772591912825,
+      "apr": 3.1623486998682893
+    },
+    {
+      "lenderName": "Bates College Credit Union",
+      "loanType": "10/1 ARM",
+      "interestRate": 3.25,
+      "closingCosts": 2375,
+      "monthlyPayment": 2176.031595361913,
+      "apr": 3.2876170460676803
+    },
+    {
+      "lenderName": "Bates College Credit Union",
+      "loanType": "20YR Fixed",
+      "interestRate": 3.125,
+      "closingCosts": 2375,
+      "monthlyPayment": 2141.8772591912825,
+      "apr": 3.1623486998682893
+    },
+    {
+      "lenderName": "Bates College Credit Union",
+      "loanType": "30YR Fixed",
+      "interestRate": 3.5,
+      "closingCosts": 2375,
+      "monthlyPayment": 2245.2234390441176,
+      "apr": 3.538162268496307
+    },
+    {
+      "lenderName": "Tres Graduado Mortgage",
+      "loanType": "15YR Fixed",
+      "interestRate": 3,
+      "closingCosts": 6750,
+      "monthlyPayment": 2108.0201686472797,
+      "apr": 3.1051411476910284
+    },
+    {
+      "lenderName": "Tres Graduado Mortgage",
+      "loanType": "20YR Fixed",
+      "interestRate": 3.125,
+      "closingCosts": 6750,
+      "monthlyPayment": 2141.8772591912825,
+      "apr": 3.230896150228089
+    },
+    {
+      "lenderName": "Tres Graduado Mortgage",
+      "loanType": "30YR Fixed",
+      "interestRate": 3.25,
+      "closingCosts": 6750,
+      "monthlyPayment": 2176.031595361913,
+      "apr": 3.3566592197266796
+    },
+    {
+      "lenderName": "Online National Financial Institution",
+      "loanType": "10/1 ARM",
+      "interestRate": 3,
+      "closingCosts": 12500,
+      "monthlyPayment": 2108.0201686472797,
+      "apr": 3.1940981835687134
+    },
+    {
+      "lenderName": "Online National Financial Institution",
+      "loanType": "20YR Fixed",
+      "interestRate": 3,
+      "closingCosts": 12500,
+      "monthlyPayment": 2108.0201686472797,
+      "apr": 3.1940981835687134
+    },
+    {
+      "lenderName": "Online National Financial Institution",
+      "loanType": "30YR Fixed",
+      "interestRate": 3.125,
+      "closingCosts": 12500,
+      "monthlyPayment": 2141.8772591912825,
+      "apr": 3.320497276001788
+    }
+  ]
+}
